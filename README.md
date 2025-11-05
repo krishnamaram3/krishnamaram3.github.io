@@ -1,7 +1,7 @@
 
 # biblemadeeasy
 
-# Domain registrar: create A records and CNAME
+# Custom domain for krishnamaram3.github.io Domain registrar: create A records and CNAME
 185.199.108.153
 185.199.109.153
 185.199.110.153
